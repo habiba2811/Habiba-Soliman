@@ -1,7 +1,7 @@
-import project1 from '../assets/projects/project-1.jpg';
-import project2 from '../assets/projects/project-2.jpg';
-import project3 from '../assets/projects/project-3.jpg';
-import project4 from '../assets/projects/project-4.jpg';
+import project1 from '../assets/projects/project1.png';
+import project2 from '../assets/projects/project2.jpg';
+import project3 from '../assets/projects/project3.jpg';
+import project4 from '../assets/projects/project4.jpg';
 
 export const HERO_CONTENT = `I'm a full-stack developer focused on creating scalable, high-quality web applications. With 4 years of hands-on experience, I combine front-end, back-end, and DevOps skills to build solutions that are both reliable and innovative. I'm passionate about using technology to drive growth and enhance user experiences.`;
 
