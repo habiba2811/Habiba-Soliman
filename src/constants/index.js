@@ -16,7 +16,7 @@ export const PROJECTS = [
     technologies: ['React', 'Next.js', 'Node.js', 'MySQL', 'AWS', 'Terraform'],
   },
   {
-    title: 'Chit Chat App',
+    title: 'Real time chat',
     image: project4,
     description:
       'A real-time chat application that enables instant messaging, with features like user authentication and message notifications.',
@@ -37,7 +37,7 @@ export const PROJECTS = [
     technologies: ['React', 'Node.js', 'MongoDB', 'GraphQL', 'Docker', 'CI/CD'],
   },
   {
-    title: 'Local Linker Web App',
+    title: 'Local Linker',
     image: project3,
     description:
       'A social networking platform for local reviews and recommendations, allowing users to share their experiences and connect with others.',
